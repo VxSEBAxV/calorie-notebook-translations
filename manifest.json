@@ -21,6 +21,26 @@
         }
       }
     },
+    "cs": {
+      "infoPackage": {
+        "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/info/cs.json",
+        "contractVersion": 1,
+        "contentVersion": 1,
+        "minAppBuild": 31,
+        "maxAppBuild": 99999,
+        "updatedAt": "2026-05-23T12:45:00Z"
+      }
+    },
+    "da": {
+      "infoPackage": {
+        "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/info/da.json",
+        "contractVersion": 1,
+        "contentVersion": 1,
+        "minAppBuild": 31,
+        "maxAppBuild": 99999,
+        "updatedAt": "2026-05-23T12:45:00Z"
+      }
+    },
     "de": {
       "infoPackage": {
         "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/info/de.json",
@@ -39,6 +59,16 @@
           "maxAppBuild": 99999,
           "updatedAt": "2026-05-15T08:30:00Z"
         }
+      }
+    },
+    "el": {
+      "infoPackage": {
+        "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/info/el.json",
+        "contractVersion": 1,
+        "contentVersion": 1,
+        "minAppBuild": 31,
+        "maxAppBuild": 99999,
+        "updatedAt": "2026-05-23T12:45:00Z"
       }
     },
     "es": {
@@ -147,6 +177,26 @@
           "maxAppBuild": 99999,
           "updatedAt": "2026-05-15T08:30:00Z"
         }
+      }
+    },
+    "nl": {
+      "infoPackage": {
+        "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/info/nl.json",
+        "contractVersion": 1,
+        "contentVersion": 1,
+        "minAppBuild": 31,
+        "maxAppBuild": 99999,
+        "updatedAt": "2026-05-23T12:45:00Z"
+      }
+    },
+    "no": {
+      "infoPackage": {
+        "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/info/no.json",
+        "contractVersion": 1,
+        "contentVersion": 1,
+        "minAppBuild": 31,
+        "maxAppBuild": 99999,
+        "updatedAt": "2026-05-23T12:45:00Z"
       }
     },
     "pl": {
