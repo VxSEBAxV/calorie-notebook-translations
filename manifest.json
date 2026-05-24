@@ -257,6 +257,14 @@
         "updatedAt": "2026-05-12T22:30:00Z"
       },
       "productNames": {
+        "de": {
+          "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/product_names/pl_de.json",
+          "contractVersion": 1,
+          "contentVersion": 1,
+          "minAppBuild": 31,
+          "maxAppBuild": 99999,
+          "updatedAt": "2026-05-24T16:30:00Z"
+        },
         "fi": {
           "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/product_names/pl_fi.json",
           "contractVersion": 1,
