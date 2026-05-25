@@ -47,6 +47,16 @@
         "minAppBuild": 31,
         "maxAppBuild": 99999,
         "updatedAt": "2026-05-23T12:45:00Z"
+      },
+      "productNames": {
+        "da": {
+          "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/product_names/da_da.json",
+          "contractVersion": 1,
+          "contentVersion": 1,
+          "minAppBuild": 33,
+          "maxAppBuild": 99999,
+          "updatedAt": "2026-05-25T10:30:00Z"
+        }
       }
     },
     "de": {
@@ -176,6 +186,14 @@
           "minAppBuild": 23,
           "maxAppBuild": 99999,
           "updatedAt": "2026-05-23T20:45:00Z"
+        },
+        "fr": {
+          "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/product_names/fr_fr.json",
+          "contractVersion": 1,
+          "contentVersion": 1,
+          "minAppBuild": 33,
+          "maxAppBuild": 99999,
+          "updatedAt": "2026-05-25T10:30:00Z"
         }
       }
     },
@@ -196,6 +214,14 @@
           "minAppBuild": 23,
           "maxAppBuild": 99999,
           "updatedAt": "2026-05-15T08:30:00Z"
+        },
+        "sz": {
+          "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/product_names/hi_sz.json",
+          "contractVersion": 1,
+          "contentVersion": 1,
+          "minAppBuild": 33,
+          "maxAppBuild": 99999,
+          "updatedAt": "2026-05-25T10:30:00Z"
         }
       }
     },
@@ -245,6 +271,16 @@
         "minAppBuild": 31,
         "maxAppBuild": 99999,
         "updatedAt": "2026-05-23T12:45:00Z"
+      },
+      "productNames": {
+        "no": {
+          "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/product_names/no_no.json",
+          "contractVersion": 1,
+          "contentVersion": 1,
+          "minAppBuild": 33,
+          "maxAppBuild": 99999,
+          "updatedAt": "2026-05-25T10:30:00Z"
+        }
       }
     },
     "pl": {
@@ -280,6 +316,30 @@
           "minAppBuild": 23,
           "maxAppBuild": 99999,
           "updatedAt": "2026-05-12T22:30:00Z"
+        },
+        "da": {
+          "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/product_names/pl_da.json",
+          "contractVersion": 1,
+          "contentVersion": 1,
+          "minAppBuild": 33,
+          "maxAppBuild": 99999,
+          "updatedAt": "2026-05-25T10:30:00Z"
+        },
+        "fr": {
+          "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/product_names/pl_fr.json",
+          "contractVersion": 1,
+          "contentVersion": 1,
+          "minAppBuild": 33,
+          "maxAppBuild": 99999,
+          "updatedAt": "2026-05-25T10:30:00Z"
+        },
+        "no": {
+          "url": "https://raw.githubusercontent.com/VxSEBAxV/calorie-notebook-translations/main/product_names/pl_no.json",
+          "contractVersion": 1,
+          "contentVersion": 1,
+          "minAppBuild": 33,
+          "maxAppBuild": 99999,
+          "updatedAt": "2026-05-25T10:30:00Z"
         }
       }
     },
